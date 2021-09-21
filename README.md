@@ -6,11 +6,9 @@
   <h3>Um eterno aprendiz entusiasta por novas tecnologias e um grande adepto de videogame!!!</h3>
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/DarkNois">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkNois&show_icons=true&line_height=21&theme=dracula&count_private=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNois&show_icons=true&theme=dracula&line_height=27&layout=compact"/>
-  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkNois"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=DarkNois&show_icons=true&line_height=21&theme=dracula&count_private=true&layout=compact"/>
 </div>
 
   ---

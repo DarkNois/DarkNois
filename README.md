@@ -14,16 +14,6 @@
   ---
   
 <div align="center">  
-  <h2> APRENDENDO ATUALMENTE </h2>
-</div>
-  
-<div align="center">
-  <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-  ---
-  
-<div align="center">  
   <h2> CONTATOS </h2>
 </div>
 
